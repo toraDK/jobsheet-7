@@ -26,6 +26,6 @@ public class DoWhile27 {
                     }
             } 
             }while (jatahCuti > 0);
-}   
+}
 
 }
