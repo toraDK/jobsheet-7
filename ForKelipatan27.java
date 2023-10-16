@@ -20,9 +20,9 @@ public class ForKelipatan27 {
 
         if(counter > 0){
             rata2 = (double) total/counter;
-            System.out.println("rata-ratanya adalah " + rata2);
+            System.out.println("rata ratanya adalah " + rata2);
         }else{
-            System.out.println("rata-rata tidak ditemukan");
+            System.out.println("rata rata tidak ditemukan");
         }
         System.out.printf("Banyaknya bilangan %d dari 1 sampai 50 adalah %d\n", kelipatan, counter); 
         System.out.printf("Total bilangan kelipatan %d dari 1 sampai 50 adalah %d\n", kelipatan, total);  
